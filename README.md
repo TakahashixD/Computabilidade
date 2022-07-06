@@ -1,2 +1,2 @@
 # Computabilidade
-Exercicios utilizando JFLAP
+Exercicios de Máquina de Turing utilizando JFLAP
